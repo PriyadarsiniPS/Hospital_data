@@ -1,0 +1,20 @@
+{
+  "name": "hospital_app_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Priyadarsini P S",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "fs-extra": "^11.1.1",
+    "http-server": "^14.1.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.0.1"
+  }
+}

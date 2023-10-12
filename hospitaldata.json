@@ -1,0 +1,17 @@
+[
+    {
+      "Name": "Arjun",
+      "Count": 300,
+      "Location": "Trivandrum"
+    },
+    {
+      "Name": "Ajay",
+      "Count": 400,
+      "Location": "Trivandrum"
+    },
+    {
+      "Name": "Varsha",
+      "Count": 500,
+      "Location": "Trivandrum"
+    }
+  ]
